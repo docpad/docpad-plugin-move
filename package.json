@@ -1,6 +1,6 @@
 {
 	"name": "docpad-plugin-move",
-	"version": "2.0.2",
+	"version": "2.0.3",
 	"description": "Adds support for the Move to javascript language to DocPad.",
 	"homepage": "http://docpad.org/plugin/move",
 	"keywords": [
@@ -12,10 +12,10 @@
 	],
 	"author": "Bevry Pty Ltd <us@bevry.me> (http://bevry.me)",
 	"maintainers": [
-		"Benjamin Lupton <b@lupton.cc> (http://balupton.com)"
+		"Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)"
 	],
 	"contributors": [
-		"Benjamin Lupton <b@lupton.cc> (http://balupton.com)"
+		"Benjamin Lupton <b@lupton.cc> (https://github.com/balupton)"
 	],
 	"bugs": {
 		"url": "https://github.com/bevry/docpad-extras/issues"
@@ -25,17 +25,17 @@
 		"url": "http://github.com/bevry/docpad-extras.git"
 	},
 	"engines" : {
-		"node": ">=0.4.0",
+		"node": ">=0.4",
 		"docpad": "6.x"
 	},
 	"dependencies": {
 		"move-panta": "0.4.x"
 	},
 	"devDependencies": {
-		"coffee-script": "1.3.x"
+		"coffee-script": "~1.4.0"
 	},
 	"main": "./out/move.plugin.js",
 	"scripts": {
-		"test": "node ./test/move.test.js"
+		"test": "node ./out/move.test.js"
 	}
 }
