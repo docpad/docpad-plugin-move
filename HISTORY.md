@@ -1,9 +1,12 @@
-## History
+# History
+
+- v2.1.0 January 10, 2014
+	- Repackaged
+	- Swapped `move-panta` for `move` as bug was fixed
 
 - v2.0.3 March 7, 2013
 	- Repackaged
-	- Dependency upgrades
-		-  `coffee-script` from 1.3.x to ~1.4.0
+	- Updated dependencies
 
 - v2.0.2 August 10, 2012
 	- Re-added markdown files to npm distribution as they are required for the npm website
