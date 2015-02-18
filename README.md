@@ -1,4 +1,4 @@
-# Move Plugin for DocPad
+# Move Plugin for [DocPad](http://docpad.org)
 
 <!-- BADGES/ -->
 
