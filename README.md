@@ -1,4 +1,9 @@
-# Move Plugin for [DocPad](http://docpad.org)
+<!-- TITLE/ -->
+
+<h1>Move Plugin for DocPad</h1>
+
+<!-- /TITLE -->
+
 
 <!-- BADGES/ -->
 
@@ -25,12 +30,14 @@ Adds support for [Move](http://movelang.org/) to JavaScript compilation to [DocP
 
 Convention:  `.js.move`
 
+<!-- INSTALL/ -->
 
-## Install
+<h2>Install</h2>
 
-``` bash
-docpad install move
-```
+Install this DocPad plugin by entering <code>docpad install move</code> into your terminal.
+
+<!-- /INSTALL -->
+
 
 <!-- HISTORY/ -->
 

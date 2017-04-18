@@ -1,4 +1,5 @@
 {
+  "title": "Move Plugin for DocPad",
   "name": "docpad-plugin-move",
   "version": "2.2.0",
   "description": "Adds support for the Move to javascript language to DocPad.",
