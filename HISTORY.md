@@ -1,5 +1,8 @@
 # History
 
+## v2.2.0 2017 April 18
+- Updated base files
+
 ## v2.1.0 2014 January 10
 - Repackaged
 - Swapped `move-panta` for `move` as bug was fixed
