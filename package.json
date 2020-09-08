@@ -1,7 +1,7 @@
 {
   "title": "Move Plugin for DocPad",
   "name": "docpad-plugin-move",
-  "version": "2.5.0",
+  "version": "2.6.0",
   "description": "Adds support for the Move to javascript language to DocPad.",
   "homepage": "https://github.com/docpad/docpad-plugin-move",
   "license": "MIT",
